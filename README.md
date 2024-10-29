@@ -6,4 +6,4 @@ To run the script just type the following command in the terminal: python img2mi
 
 # TODO 
 
-Add other colour formats, eg RGB 565, RGB666 etc
+Add other colour formats, eg RGB 565, RGB666 etc...
